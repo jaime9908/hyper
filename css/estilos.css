@@ -6,3 +6,17 @@ body
      
 
 }
+#container
+{
+    width: 80%;
+    padding: 1em;
+    test-aling : left;
+    border: 16px solid darkred;
+    margin: 0 auto;
+
+}
+
+# container h1
+{
+    font-size: 20 px;
+}
